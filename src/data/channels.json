@@ -1,0 +1,39 @@
+{
+  "channels": [
+    {
+      "name": "beIN Sports Haber",
+      "id": "hTkdFzrx6SE",
+      "logo": "https://yt3.ggpht.com/a/AATXAJyHFauiY2w_bLEcoFOY0yd3I3L1NgfB1v6bkY460Q=s48-c-k-c0xffffffff-no-rj-mo"
+    },
+    {
+      "name": "CNN Türk",
+      "id": "MguGaas3nc",
+      "logo": "https://yt3.ggpht.com/a/AATXAJyxlbSxB8WMD8Coh44KImCBy1bhpxsQwh8oA2Fu0OQ=s48-c-k-c0xffffffff-no-rj-mo"
+    },
+    {
+      "name": "NTV",
+      "id": "XEJM4Hcgd3M",
+      "logo": "https://yt3.ggpht.com/a/AATXAJyMswL4-hc-Au99dtP6ClHGhUund4vGd1eS-MFLB5k=s48-c-k-c0xffffffff-no-rj-mo"
+    },
+    {
+      "name": "BloombergHT",
+      "id": "uVvzcXNhhVg",
+      "logo": "https://yt3.ggpht.com/a/AATXAJyuNLcpRSHmcVZeMgn0yrkOGDEtuH5DyBarH0xE8g=s48-c-k-c0xffffffff-no-rj-mo"
+    },
+    {
+      "name": "TRT Haber",
+      "id": "yWx3ZHqof6I",
+      "logo": "https://yt3.ggpht.com/a/AATXAJw-1YhoSmJQcy7_6wc_iQ6jfDJFe_Q22W0aRRJ-yQ=s48-c-k-c0xffffffff-no-rj-mo"
+    },
+    {
+      "name": "TLC",
+      "id": "IMy6RvwMJLs",
+      "logo": "https://yt3.ggpht.com/a/AATXAJw4pyE8vb0vZIFeWacusaGDpf7Vuyv7I48Wx8cLlg=s48-c-k-c0xffffffff-no-rj-mo"
+    },
+    {
+      "name": "ATV",
+      "id": "tjObop6jNEc",
+      "logo": "https://yt3.ggpht.com/a/AATXAJzcZ6XlmhI_1183VTDEevZmskyzB0Hxi9-cvoCo9w=s48-c-k-c0xffffffff-no-rj-mo"
+    }
+  ]
+}
